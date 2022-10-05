@@ -1,0 +1,8 @@
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+# 추가
+.jekyll-cache
+.github
