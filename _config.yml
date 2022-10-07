@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: YangMY Blog
 email: your-email@domain.com
 author: GitHub User
 
@@ -154,10 +154,10 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+defaults:
+  home:
+    heading: "YangMY Blog heading"
+    subheading: "공부 내용 정리 블로그"
 #     banner: "Your image url"
 
 # Banner default settings

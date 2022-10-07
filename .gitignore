@@ -6,3 +6,4 @@ Gemfile.lock
 # 추가
 .jekyll-cache
 .github
+2017-*.md
