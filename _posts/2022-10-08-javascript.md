@@ -59,12 +59,3 @@ tags: javascript
 > **Express** - Node.js 웹 애플리케이션 프레임워크
 
 - Python : Django, Flask, FastAPI ...
-
-#### Node.js로 Express 사용하기
-
-{% highlight Node.js %}
-    npm install -g express-generator
-    express jsproject --view=pug
-    npm install
-    npm start
-{% endhighlight %}
